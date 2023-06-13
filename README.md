@@ -2,6 +2,10 @@
 # tech stack used
 
 html, css and javascript
+
+#Link for demo
+https://virupaksha-b-m.github.io/calculator/
+
 #
 ![image](https://github.com/virupaksha-b-m/calculator/assets/91652877/d20ff84f-945e-4a52-b897-171772871627)
 
